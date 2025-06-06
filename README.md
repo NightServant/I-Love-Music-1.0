@@ -3,9 +3,9 @@
 
 ## Created by:
 - Cervantes, Elijah Gabe C. | Gabby07theProgrammer
-- Petines, Marc Jhasper |
-- Quismundo, Denzel |
-- Valencia, Earl Benjie |
+- Petines, Marc Jhasper L. |
+- Quismundo, Denzel Matthew P. |
+- Valencia, Earl Benjie R. |
 
 ## Project Overview:
 - The objective of this project is to apply the basics or foundation of implementing Graphical User Interface in Java programming language. This involves exploring the essential concepts and practices required to create user-friendly desktop applications. Within this project, the developers gained experience in implementing frames, panels, buttons, fields etc. The developers also gained insights on how to implement file reading in order to access specific files. 
