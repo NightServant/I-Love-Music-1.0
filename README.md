@@ -1,1 +1,1 @@
-# I-Love-Music-1.0
+# I Love Music (1.0)
