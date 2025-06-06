@@ -2,7 +2,7 @@
 - This Java GUI program served as a case study requirement for "Computer Programming 2 Lab" course. I Love Music 1.0 is a Java graphical user interface (GUI) application that allow users to play music. In other words, a desktop application that is similar to Spotify. 
 
 ## Created by:
-- Cervantes, Elijah Gabe C. | Gabby07theProgrammer
+- Cervantes, Elijah Gabe C. | NightServant
 - Petines, Marc Jhasper L. |
 - Quismundo, Denzel Matthew P. |
 - Valencia, Earl Benjie R. |
