@@ -8,7 +8,10 @@
 - Valencia, Earl Benjie R. |
 
 ## Project Overview:
-- The objective of this project is to apply the basics or foundation of implementing Graphical User Interface in Java programming language. This involves exploring the essential concepts and practices required to create user-friendly desktop applications. Within this project, the developers gained experience in implementing frames, panels, buttons, fields etc. The developers also gained insights on how to implement file reading in order to access specific files. 
+- The objective of this project is to apply the basics or foundation of implementing Graphical User Interface in Java programming language. This involves exploring the essential concepts and practices required to create user-friendly desktop applications. Within this project, the developers gained experience in implementing frames, panels, buttons, fields etc. The developers also gained insights on how to implement file reading in order to access specific files.
+
+## Application Preview:
+![image](https://github.com/user-attachments/assets/3a6bd43f-c257-424e-9214-6788722a59be)
 
 ## Technology Stack:
 - **Language**: Java
