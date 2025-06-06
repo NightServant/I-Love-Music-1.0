@@ -134,7 +134,7 @@ public class MusicPlayer implements ActionListener {
         aFrame.add(fourthSP);
 
         //The folder or files seeker.
-        File folder = new File("C:\\Users\\egabe\\IdeaProjects\\Activities\\LoveMusic\\Music");
+        File folder = new File("Insert your File Path here.");
         File[] files = folder.listFiles();
         DefaultListModel<String> listModel = new DefaultListModel<>();
         assert files != null;
@@ -204,7 +204,7 @@ public class MusicPlayer implements ActionListener {
 
             // The Music Files' pathname
             musicFiles = new File
-                    ("C:\\Users\\egabe\\IdeaProjects\\Activities\\LoveMusic\\Music").listFiles();
+                    ("Insert your File Path here.").listFiles();
                      playMusic(musicFiles[currentSongIndex]);
 
                      //The PLAY or PAUSE Button
